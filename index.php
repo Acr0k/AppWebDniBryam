@@ -55,7 +55,7 @@
             <center>
                 <img src="img/banner_compatible.png" class="sobre" style="width: 600px; height: auto;">
             </center>
-            <center style="color: white">©2023 Bryam Trujillo Inc. Todos los derechos reservados.</center>
+            <center style="color: white">©2023 Bryam Trujillo Inc. Todos los derechos reservados</center>
         </div>
     </div>
 
